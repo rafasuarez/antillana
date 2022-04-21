@@ -1,0 +1,28 @@
+/*
+Theme Name: Avada
+Description: Antillana
+Author: Grupo Cartagena
+Author URI: https://www.grupocartagena.com
+Template: Avada
+Version: 1.0.0
+Text Domain: Antillana
+*/
+$red: #e31d1a;
+$orange: #f28301;
+$blue: #00609c;
+$light-blue: #33b1e8;
+$grey: #0d354e;
+$basefont: 'Montserrat',sans-serif;
+
+* {
+  outline: none;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
